@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# build
+dist/
+.next/
+
+# prisma
+prisma/dev.db
